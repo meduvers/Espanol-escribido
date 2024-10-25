@@ -1,8 +1,11 @@
 # Español-escribido
 
 ## Prioridad 1
+
 Cambiar v por b: 		v/b
+
 Cambiar ge, gi por je, ji: 	ge/je gi/ji
+
 Cambiar ü por u: 		ü/u
 
 ## Prioridad 2
@@ -12,6 +15,7 @@ Sin acentos: 			á/a é/e í/i ó/o ú/u
 ## Prioridad 3
 
 Cambiar ce ci por ze zi: 	ce/ze ci/zi
+
 Cambiar k y qu por c: 		k/c qu/c
 
 ## Prioridad 4
@@ -25,7 +29,9 @@ Cambiar ll por y: ll/y
 ## Otras opciones poco realistas
 
 Cambiar x por cs:		x/cs
+
 Cambiar ñ por otra letra: q, k, …
+
 Cambiar ch por otra letra: q, k, …
 
 ## Ejemplo
