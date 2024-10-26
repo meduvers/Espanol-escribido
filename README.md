@@ -18,6 +18,8 @@ Cambiar ce ci por ze zi: 	ce/ze ci/zi
 
 Cambiar k y qu por c: 		k/c qu/c
 
+Cambiar cc por cz: 		cc/cz
+
 ## Prioridad 4
 
 Sin h: 				h/- salvo ch
