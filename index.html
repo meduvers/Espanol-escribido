@@ -146,11 +146,6 @@
                 .replace(/qu/g, 'c')
                 .replace(/k/g, 'c')
                 .replace(/cc/g, 'cz')
-                .replace(/ha/g, 'a')
-                .replace(/he/g, 'e')
-                .replace(/hi/g, 'i')
-                .replace(/ho/g, 'o')
-                .replace(/hu/g, 'u')
                 .replace(/á/g, 'a')
                 .replace(/é/g, 'e')
                 .replace(/í/g, 'i')
@@ -167,11 +162,6 @@
                 .replace(/Qu/g, 'C')
                 .replace(/K/g, 'C')
                 .replace(/Cc/g, 'Cz')
-                .replace(/Ha/g, 'A')
-                .replace(/He/g, 'E')
-                .replace(/Hi/g, 'I')
-                .replace(/Ho/g, 'O')
-                .replace(/Hu/g, 'U')
                 .replace(/Á/g, 'A')
                 .replace(/É/g, 'E')
                 .replace(/Í/g, 'I')
@@ -186,12 +176,16 @@
                 .replace(/CI/g, 'ZI')
                 .replace(/QU/g, 'C')
                 .replace(/CC/g, 'CZ')
-                .replace(/HA/g, 'A')
-                .replace(/HE/g, 'E')
-                .replace(/HI/g, 'I')
-                .replace(/HO/g, 'O')
-                .replace(/HU/g, 'U')
-                .replace(/LL/g, 'Y');
+                .replace(/LL/g, 'Y')
+
+                .replace(/ch/g, 'qq')
+                .replace(/Ch/g, 'Qq')
+                .replace(/CH/g, 'QQ')
+                .replace(/h/g, '')
+                .replace(/H/g, '')
+                .replace(/qq/g, 'ch')
+                .replace(/Qq/g, 'Ch')
+                .replace(/QQ/g, 'CH');
             
             document.getElementById('outputText').value = processed;
         }
